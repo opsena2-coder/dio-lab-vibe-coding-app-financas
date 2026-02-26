@@ -99,7 +99,7 @@ NÃO implemente:
   - 
 
 > [!TIP]
-> Publique seu repositório e compartilhe o link na plataforma da DIO! Sua entrega é a prova de que você domina o raciocínio de Vibe Coding, mesmo sem escrever uma única linha de código.
+> [Publique seu repositório e compartilhe o link na plataforma da DIO! Sua entrega é a prova de que você domina o raciocínio de Vibe Coding, mesmo sem escrever uma única linha de código.](https://id-preview-969b0187--eb5a12bb-7c38-4e1b-9ee8-42e503df9c08.lovable.app/)
 
 ## 💬 Conclusão
 
