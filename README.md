@@ -86,17 +86,17 @@ NÃO implemente:
 
 - Um resumo do que o seu **App de Finanças Pessoais** faz;
 
-- Faz u controlhe dos lançaentos de gastos diverços e inclusão de descrição.
+- Faz u controlhe dos lançaentos de gastos diverços e inclusão da descrição dos lançamentos.
     
 - Uma breve **reflexão sobre o processo**:
   - O que funcionou bem?
-  - Todas as opções implementadas no App estão funcionando corretamente. O mesmo possui também tela de Login  que é validado por de e-mmail.
+  - Todas as opções implementadas no App estão funcionando corretamente. O mesmo possui também tela de Login que é validada por cadastro e confirmação de e-mmail.
   
   - O que não funcionou como o esperado?
-  - Até o momento não apresenta nenhuma estabilidade.
+  - Até o momento não está apresentando nenhuma estabilidade.
   -  
   - O que aprendeu sobre conversar com IAs?
-  - 
+  - Hojé aprendi que ela é uma ferrementa iprescidível para nos ajudar a tirar dúvidas e criar ferraentas para a nossa atualidade.
 
 > [!TIP]
 > [Publique seu repositório e compartilhe o link na plataforma da DIO! Sua entrega é a prova de que você domina o raciocínio de Vibe Coding, mesmo sem escrever uma única linha de código.](https://id-preview-969b0187--eb5a12bb-7c38-4e1b-9ee8-42e503df9c08.lovable.app/)
